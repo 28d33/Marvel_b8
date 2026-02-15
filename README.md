@@ -46,9 +46,9 @@ I created a weather application by integrating an external API to understand rea
 - Parsed JSON responses and displayed weather details
 
 ### API integration 
-![js-script](images/task2-weather.png)
+![js-script](images/weatherapi.png)
 ###  Weather API Output
-![Weather App Screenshot](images/task2-weather.png)
+![Weather App Screenshot](images/weather.png)
 
 ---
 
@@ -62,11 +62,11 @@ Explored collaborative development practices using GitHub.
 - Understood GitHub Actions workflows
 - Practiced forking and merging code
 ### Git commands
-![js-script](images/task2-weather.png)
+![js-script](images/git_commands.png)
 ###  Fork
-![js-script](images/task2-weather.png)
+![js-script](images/fork.png)
 ###  Pull request
-![js-script](images/task2-weather.png)
+![js-script](images/pullrequest.png)
 
 
 ---
@@ -187,14 +187,9 @@ This is just a simple example to build a web server that controls ESP32 outputs 
 ##  TASK 12 — Soldering Prerequisites
 
 ### Overview
-Learned basic soldering techniques and safety practices.
-
-### Activities
-- Understanding soldering tools and materials
- - Practicing clean solder joints under supervision
-![soldering](images/task2-weather.png)
-[pyhton_script](numpy/imag.py)
-
+-Soldering is a technique used to join electronic components by melting a filler metal (solder) that solidifies to form both a mechanical and electrical connection. It is widely used in assembling and repairing circuits, and can be seen as the small metallic joints on PCBs where components are fixed. 
+-In the lab, I was introduced to the basic soldering equipment including the soldering iron, solder wire, flux, soldering wick, and the stand, along with the necessary safety precautions. Under the guidance of a coordinator, I practiced basic soldering on a perf board by creating a simple LED circuit.
+- I also learned how to desolder existing joints using a soldering wick and then resolder the components back in place.
 ---
 
 ## TASK 14 — Karnaugh Maps & Logic Circuit
