@@ -223,7 +223,7 @@ Studied Virtual Reality and its ecosystem.
 - Technology stacks
 - Indian companies working in VR
   
-[view report](vr/vw-ar.pdf)
+[view report](https://github.com/Anjan-0126/Marvel_b8/blob/main/vr/vw-ar.pdf)
 ---
 
 
