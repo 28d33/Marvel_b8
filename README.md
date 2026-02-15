@@ -46,9 +46,9 @@ I created a weather application by integrating an external API to understand rea
 - Parsed JSON responses and displayed weather details
 
 ### API integration 
-![js-script](images/weaterapi.png)
+![api](https://github.com/Anjan-0126/Marvel_b8/blob/main/images/weaterapi.png)
 ###  Weather API Output
-![Weather App Screenshot](images/weather.png)
+![Weather App Screenshot](https://github.com/Anjan-0126/Marvel_b8/blob/main/images/weather.png)
 
 ---
 
@@ -62,11 +62,11 @@ Explored collaborative development practices using GitHub.
 - Understood GitHub Actions workflows
 - Practiced forking and merging code
 ### Git commands
-![js-script](images/git_commands.png)
+![js-script](https://github.com/Anjan-0126/Marvel_b8/blob/main/images/git_commands.png)
 ###  Fork
-![js-script](images/fork.png)
+![js-script](https://github.com/Anjan-0126/Marvel_b8/blob/main/images/fork.png)
 ###  Pull request
-![js-script](images/pullrequest.png)
+![js-script](https://github.com/Anjan-0126/Marvel_b8/blob/main/images/pullrequest.png)
 
 
 ---
@@ -82,9 +82,9 @@ I successfully completed all the subtasks mentioned.
 - Listed files using terminal commands
 - Created files without text editors
 - Concatenated text files and displayed output
-![ubuntu](images/ubuntu1.png)
+![ubuntu](https://github.com/Anjan-0126/Marvel_b8/blob/main/images/ubuntu1.png)
 - Generated multiple folders using loops
-![ubuntu](images/ubuntu2.png)
+![ubuntu](https://github.com/Anjan-0126/Marvel_b8/blob/main/images/ubuntu2.png)
 
 
 ---
@@ -100,7 +100,7 @@ Decoded a scrambled matrix to reveal a hidden image using NumPy operations.
 - Corrected orientation of image
 - Visualized final output with Matplotlib
 [pyhton_script](numpy/imag.py)
-![js-script](images/numpy.png)
+![js-script](https://github.com/Anjan-0126/Marvel_b8/blob/main/images/numpy.png)
 
 ---
 
@@ -120,7 +120,7 @@ Created a responsive personal portfolio website.
 - Version controlled using GitHub
 - Hosted using vercel platform
 [Portfolio](https://anjan-github-io-git-main-anjans-projects-d060d631.vercel.app/)
-![my_portfolio](images/portfolio.png)
+![my_portfolio](https://github.com/Anjan-0126/Marvel_b8/blob/main/images/portfolio.png)
 ---
 ## TASK 8 — Writing Resource Article using Markdown
 
@@ -145,7 +145,7 @@ Simulated circuits to understand sensors and microcontroller programming.
 - Ultrasonic sensor distance measurement
 - Serial monitor output display
 - Radar system using ultrasonic sensor + servo motor
-![tinkerkad](images/thinkercad.png)
+![tinkerkad](https://github.com/Anjan-0126/Marvel_b8/blob/main/images/thinkercad.png)
 
 
 ---
@@ -160,7 +160,7 @@ I learnt the basics of the L298 Motor driver, about its ports and connections. L
 ### Key Concepts
 - L298N motor driver operation
 - Hardware implementation and testing
-![image](images/speed.jpeg)
+![image](https://github.com/Anjan-0126/Marvel_b8/blob/main/images/speed.jpeg)
 [watch-video](https://drive.google.com/file/d/1cR2iuDeJmmP0Sag2VTzNXopN98Yh5x-P/view?usp=drivesdk)
 
 
@@ -178,8 +178,8 @@ This is just a simple example to build a web server that controls ESP32 outputs 
 - Connected LED to GPIO
 - Created browser-based control interface
 - Controlled LED through local network
- ![led toggle image](images/led1.jpeg)
- ![led toggle image](images/led2.jpeg)
+ ![led toggle image](https://github.com/Anjan-0126/Marvel_b8/blob/main/images/led1.jpeg)
+ ![led toggle image](https://github.com/Anjan-0126/Marvel_b8/blob/main/images/led2.jpeg)
 
 
 ---
@@ -196,7 +196,7 @@ This is just a simple example to build a web server that controls ESP32 outputs 
 
 ### Overview
 In this task, I learned how to use Karnaugh Maps to simplify Boolean expressions and design a simple burglar alarm circuit.   The burglar alarm should work based on the whether the **door is locked or open**, whether the **key is pressed or not pressed**. By using these conditions on a 4-variable K-Map, I identified the simplified Boolean expression for the output. This logic was then used to design a circuit using logic gates
-![kmap](images/kmap.jpeg)
+![kmap](https://github.com/Anjan-0126/Marvel_b8/blob/main/images/kmap.jpeg)
  
 ---
 
@@ -205,11 +205,11 @@ In this task, I learned how to use Karnaugh Maps to simplify Boolean expressions
 ### Activities
 ### Synthetic intelligence
 i actively participated in a Synthetic Intelligence event where I used AI tools to design a prototype drone concept. The project focused on applying artificial intelligence for innovative design and problem-solving during the prototyping phase. My design stood out for its creativity and practical approach, and I won recognition in the event.
-![certicate](images/si.jpeg)
+![certicate](https://github.com/Anjan-0126/Marvel_b8/blob/main/images/si.jpeg)
 
 ### Bit N Build
   I actively participated in the **Bit N Build Hackathon**, where I designed and developed a College Management System prototype. The project focused on creating an efficient digital solution to manage academic and administrative activities within a college.
- ![certificate](images/bnb.jpeg)
+ ![certificate](https://github.com/Anjan-0126/Marvel_b8/blob/main/images/bnb.jpeg)
  
 ---
 ##  TASK 17 — Introduction to VR
@@ -238,10 +238,10 @@ Helped me to practice Linux debugging through real-world scenarios.
 - Problem diagnosis using command line
 - System troubleshooting techniques
 - Improving Linux confidence
- ![ss1](images/ss1.png)
- ![ss2](images/ss2.png)
- ![ss3](images/ss3.png)
- ![ss4](images/ss4.png)
+ ![ss1](https://github.com/Anjan-0126/Marvel_b8/blob/main/images/ss1.png)
+ ![ss2](https://github.com/Anjan-0126/Marvel_b8/blob/main/images/ss2.png)
+ ![ss3](https://github.com/Anjan-0126/Marvel_b8/blob/main/images/ss3.png)
+ ![ss4](https://github.com/Anjan-0126/Marvel_b8/blob/main/images/ss4.png)
  
   
 ---
@@ -255,10 +255,10 @@ Built a resource library web application using Express.js.
 - Browse educational resources and books
 - User account management
 - Backend routing and server setup
-![web1](images/web1.png)
-![web2](images/web2.png)
-![web3](images/web3.png)
-![web4](images/web4.png)
+![web1](https://github.com/Anjan-0126/Marvel_b8/blob/main/images/web1.png)
+![web2](https://github.com/Anjan-0126/Marvel_b8/blob/main/images/web2.png)
+![web3](https://github.com/Anjan-0126/Marvel_b8/blob/main/images/web3.png)
+![web4](https://github.com/Anjan-0126/Marvel_b8/blob/main/images/web4.png)
 
 ---
 
