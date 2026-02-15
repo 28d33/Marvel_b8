@@ -222,7 +222,8 @@ Studied Virtual Reality and its ecosystem.
 - Current industry trends
 - Technology stacks
 - Indian companies working in VR
-[vr](vr/vw-ar.pdf)
+  
+[view report](vr/vw-ar.pdf)
 ---
 
 
