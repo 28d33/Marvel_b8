@@ -31,7 +31,7 @@ I created a weather application by integrating an external API to understand rea
 ###  API Selection
 * **Provider:** [Weather_Map](https://openweathermap.org/)
 * **Service:** Current Weather Data API
-* **Auth Method:** API Key (490a02c5a6858e1729c5b8d361xxxxxx)
+* **Auth Method:** API Key (90a02c5a6858e1729c5b8d3614e4ea7)
 
 ###   Features
 * **Real-Time Polling:** Fetches live data from global weather stations.
@@ -46,7 +46,7 @@ I created a weather application by integrating an external API to understand rea
 - Parsed JSON responses and displayed weather details
 
 ### API integration 
-![js-script](images/weatherapi.png)
+![js-script](images/weaterapi.png)
 ###  Weather API Output
 ![Weather App Screenshot](images/weather.png)
 
@@ -82,7 +82,7 @@ I successfully completed all the subtasks mentioned.
 - Listed files using terminal commands
 - Created files without text editors
 - Concatenated text files and displayed output
-![ubuntu](images/ubuntu2.png)
+![ubuntu](images/ubuntu1.png)
 - Generated multiple folders using loops
 ![ubuntu](images/ubuntu2.png)
 
@@ -187,9 +187,8 @@ This is just a simple example to build a web server that controls ESP32 outputs 
 ##  TASK 12 — Soldering Prerequisites
 
 ### Overview
-- Soldering is a technique used to join electronic components by melting a filler metal (solder) that solidifies to form both a mechanical and electrical connection. It is widely used in assembling and repairing circuits, and can be seen as the small metallic joints on PCBs where components are fixed.
-
-- In the lab, I was introduced to the basic soldering equipment including the soldering iron, solder wire, flux, soldering wick, and the stand, along with the necessary safety precautions. Under the guidance of a coordinator, I practiced basic soldering on a perf board by creating a simple LED circuit.
+-Soldering is a technique used to join electronic components by melting a filler metal (solder) that solidifies to form both a mechanical and electrical connection. It is widely used in assembling and repairing circuits, and can be seen as the small metallic joints on PCBs where components are fixed. 
+-In the lab, I was introduced to the basic soldering equipment including the soldering iron, solder wire, flux, soldering wick, and the stand, along with the necessary safety precautions. Under the guidance of a coordinator, I practiced basic soldering on a perf board by creating a simple LED circuit.
 - I also learned how to desolder existing joints using a soldering wick and then resolder the components back in place.
 ---
 
@@ -223,7 +222,9 @@ Studied Virtual Reality and its ecosystem.
 - Current industry trends
 - Technology stacks
 - Indian companies working in VR
-[vr.md](vr/vr.md)
+[vr](vr/vw-ar.pdf)
+---
+
 
 
 ##  TASK 18 — Sad Servers (Linux Troubleshooting)
