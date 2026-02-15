@@ -31,7 +31,7 @@ I created a weather application by integrating an external API to understand rea
 ###  API Selection
 * **Provider:** [Weather_Map](https://openweathermap.org/)
 * **Service:** Current Weather Data API
-* **Auth Method:** API Key (90a02c5a6858e1729c5b8d3614e4ea7)
+* **Auth Method:** API Key (90a02c5a6858e1729c5b8d361xxxxxx)
 
 ###   Features
 * **Real-Time Polling:** Fetches live data from global weather stations.
