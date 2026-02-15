@@ -99,7 +99,7 @@ Decoded a scrambled matrix to reveal a hidden image using NumPy operations.
 - Reshaped encoded array into square format
 - Corrected orientation of image
 - Visualized final output with Matplotlib
-[pyhton_script](numpy/imag.py)
+[pyhton_script](https://github.com/Anjan-0126/Marvel_b8/blob/main/numpy/imag.py)
 ![js-script](https://github.com/Anjan-0126/Marvel_b8/blob/main/images/numpy.png)
 
 ---
@@ -132,7 +132,7 @@ Learned Markdown syntax and created a technical article on Linux.
 - Added links and formatted sections
 - Ensured readability across devices
 - Published article on the MARVEL platform
-[linux md](task8/linux-complete-guide.md)
+[linux md](https://github.com/Anjan-0126/Marvel_b8/blob/main/task8/linux-complete-guide.md)
 ---
 
 
